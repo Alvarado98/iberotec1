@@ -5,6 +5,8 @@
  */
 package ejemplo1;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Adelaida
@@ -16,6 +18,8 @@ public class Ejemplo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
+        JOptionPane.showMessageDialog(null, "Hola");
     }
     
 }
